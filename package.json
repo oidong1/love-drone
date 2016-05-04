@@ -1,0 +1,26 @@
+{
+  "name": "love-drone",
+  "version": "1.0.0",
+  "description": "Drone for LOVE",
+  "main": "index.js",
+  "dependencies": {
+    "cylon": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oidong1/love-drone.git"
+  },
+  "keywords": [
+    "drone"
+  ],
+  "author": "designing plus nine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oidong1/love-drone/issues"
+  },
+  "homepage": "https://github.com/oidong1/love-drone#readme"
+}
