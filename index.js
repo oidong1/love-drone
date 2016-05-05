@@ -13,8 +13,9 @@ Cylon.robot({
 		my.drone.wheelOn();
 		my.drone.flatTrim();
 		my.drone.takeOff();
+    my.drone.clockwise({speed: 50, steps: 100});
 
-		after(5000, function () {
+		after(10000, function () {
 			my.drone.land();
 		});
 	}
